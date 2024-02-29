@@ -1,0 +1,265 @@
+repo_name: Tisha211/json-schema
+report_id: 58c33c13710b65d5268ed7b6508ea054
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:24:52+00:00'
+requested_by: jdesrosiers
+provider: github
+branch: main
+detected_tools_count: 20
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Tisha211/json-schema
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Tisha211/json-schema
+  detection_source: Repo Metadata
+- name: YAML
+  description: A straightforward machine parsable data serialization format designed
+    for human readability and interaction
+  website_url: http://www.yaml.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1744/yaml.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2022-09-14 22:04:35.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-02-10 19:42:12.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2022-09-14 22:04:35.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2022-09-14 22:04:35.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Tisha211/json-schema
+  detection_source: Repo Metadata
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-02-10 19:42:12.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2022-09-14 22:04:35.000000000 Z
+- name: "@types/chai"
+  description: TypeScript definitions for chai
+  package_url: https://www.npmjs.com/@types/chai
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-10-24 17:26:00.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-10-24 17:26:00.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-10-24 17:26:00.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-10-24 17:26:00.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-10-24 17:26:00.000000000 Z
+- name: content-type
+  description: Create and parse HTTP Content-Type header
+  package_url: https://www.npmjs.com/content-type
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17887/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-10-24 17:26:00.000000000 Z
+- name: eslint-import-resolver-node
+  description: Node default behavior import resolution plugin for eslint-plugin-import
+  package_url: https://www.npmjs.com/eslint-import-resolver-node
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17714/default_8cfeb169319d5cc646c1e13f8a10e7d7e7430d7c.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-10-24 17:26:00.000000000 Z
+- name: eslint-import-resolver-typescript
+  description: TypeScript .ts .tsx module resolver for `eslint-plugin-import`
+  package_url: https://www.npmjs.com/eslint-import-resolver-typescript
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18380/default_d0ba753d47207ad8f04b02befcab81c50f38718f.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-10-24 17:26:00.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-09-21 20:00:43.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-10-24 17:26:00.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/Tisha211/json-schema/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jason Desrosiers
+  last_updated_on: 2023-01-18 04:33:22.000000000 Z
